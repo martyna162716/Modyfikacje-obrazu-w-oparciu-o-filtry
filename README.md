@@ -1,0 +1,1 @@
+# Modyfikacje-obrazu-w-oparciu-o-filtry
