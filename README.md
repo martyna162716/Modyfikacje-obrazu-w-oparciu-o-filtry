@@ -40,7 +40,7 @@ Na początku wczytuję klasę grayscale1, która będzie modyfikowała obraz w o
 
 
 
-Następnie na zdjęciu modyfikowane są filtry statystyczne w oparciu o:
+### Następnie na zdjęciu modyfikowane są filtry statystyczne w oparciu o:
 
 * filtr minimum:
 
