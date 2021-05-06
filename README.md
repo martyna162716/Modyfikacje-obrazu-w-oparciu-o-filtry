@@ -7,7 +7,7 @@ Na początku wczytuję klasę grayscale1, która będzie modyfikowała obraz w o
 ![widok](https://user-images.githubusercontent.com/80594097/117310520-a3622880-ae83-11eb-92db-368f3daf5c9c.jpg)
 
 
-# Na początku na zdjęciu modyfikowany jest filtr wyostrzający w oparciu o:
+### Na początku na zdjęciu modyfikowany jest filtr wyostrzający w oparciu o:
 
 * operator Robertsa (dla gradientu pionowego i poziomego):
 
